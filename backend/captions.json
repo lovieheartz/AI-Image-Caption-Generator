@@ -31,5 +31,49 @@
             "#lake",
             "#mountains"
         ]
+    },
+    {
+        "filename": "20250629_003324_boat.jpeg",
+        "caption": "arafed white boat with a blue stripe is traveling in the water",
+        "hashtags": [
+            "#arafed",
+            "#white",
+            "#boat",
+            "#blue",
+            "#stripe"
+        ]
+    },
+    {
+        "filename": "20250629_003338_clouds-cloudy-countryside-236047.jpg",
+        "caption": "arafed view of a green field with a lone tree in the distance",
+        "hashtags": [
+            "#arafed",
+            "#view",
+            "#green",
+            "#field",
+            "#lone"
+        ]
+    },
+    {
+        "filename": "20250629_003352_flower.jpeg",
+        "caption": "yellow flowers in the foreground of a lake and mountains",
+        "hashtags": [
+            "#yellow",
+            "#flowers",
+            "#foreground",
+            "#lake",
+            "#mountains"
+        ]
+    },
+    {
+        "filename": "20250629_003404_OIP.jpeg",
+        "caption": "puppy laying on the grass with a bone in its mouth",
+        "hashtags": [
+            "#puppy",
+            "#laying",
+            "#grass",
+            "#bone",
+            "#mouth"
+        ]
     }
 ]
